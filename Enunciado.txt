@@ -1,0 +1,5 @@
+6. Desarrollar una aplicación con tres imágenes. Por defecto las imágenes tendrán
+una opacidad del 50%, y cuando se pase el cursor por encima de una de ellas su
+opacidad será del 100%. Se debe implementar un único método manejador de
+eventos para las tres imágenes.
+Nombre del proyecto: 2.6.Opacidad
